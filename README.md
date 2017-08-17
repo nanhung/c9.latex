@@ -1,6 +1,11 @@
 # Using LateX in Cloud9
 
-I'm trying to find the free software to replace the MS office. Latex seems to be a better choice to do my work. Also, I want to use the cloud based IDE and version control system to manage my document, efficiently. Here is my simple way to install and use latex in cloud9.
+I'm trying to find the free software to replace the MS office. 
+Latex seems to be a better choice to do my work. 
+Also, I want to use the cloud based IDE and version control system to manage my documents, efficiently. 
+Here is my simple way to install and use latex in cloud9.
+
+---
 
 1. In the terminal, update the package list
 
